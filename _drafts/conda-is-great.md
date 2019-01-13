@@ -7,6 +7,7 @@ tags: conda python depenencies dev-ops
 
 # Overwhelmed by all your python dependencies? Conda to the rescue!
 
+
 ## Why Conda?
 
 
@@ -20,4 +21,4 @@ tags: conda python depenencies dev-ops
 
 ### Anaconda Cloud & Channels
 
-### Recipes & Conda-forge
+### Recipes & Conda Forge
