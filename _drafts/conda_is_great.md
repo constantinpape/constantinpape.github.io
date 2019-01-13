@@ -4,4 +4,9 @@ title: "Conda is great"
 date: YYYY-MM-DD
 ---
 
-Lorem ipsum bla bla
+Write post about conda usage:
+
+Todo:
+- intro
+- bla
+- blub
